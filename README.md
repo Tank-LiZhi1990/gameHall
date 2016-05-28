@@ -13,5 +13,5 @@
 第四次修改
 -- edit by xujian
 
-xiantongbuzaitijiao
+先同步再提交
 -- edit by lz
